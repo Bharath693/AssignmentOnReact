@@ -1,0 +1,17 @@
+.maincontainer{
+    width: 100%;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    background-color: white;
+    align-items: center;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    padding: 15px 25px;
+}
+
+.container  a{
+    text-decoration: none;
+    color:blue;
+}
